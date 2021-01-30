@@ -94,6 +94,10 @@
         "http://google.com"
       ],
       "url": "Google"
+    },
+    {
+      "name": "Google",
+      "url": "http://google.com"
     }
   ]
 }
